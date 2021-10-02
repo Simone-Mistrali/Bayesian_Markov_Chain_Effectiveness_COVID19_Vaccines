@@ -13,8 +13,9 @@ In medicine, effectiveness relates to how well a treatment works in practice, es
 
 To give a quantitative definition of the effectiveness we will use the following formula:
 
-<img src="https://latex.codecogs.com/gif.latex?Eff&space;=&space;\frac{\textbf{$\theta$}{Placebo}&space;-\textbf{$\theta$}{Vaccine}}{\textbf{$\theta$}_{Placebo}}100" title="Eff = \frac{\textbf{$\theta$}{Placebo} -\textbf{$\theta$}{Vaccine}}{\textbf{$\theta$}_{Placebo}}100" />
+<a href="https://www.codecogs.com/eqnedit.php?latex=Eff=\frac{\textbf{$\theta$}{Placebo}-\textbf{$\theta$}{Vaccine}}{\textbf{$\theta$}_{Placebo}}100" target="_blank"><img src="https://latex.codecogs.com/gif.latex?Eff=\frac{\textbf{$\theta$}{Placebo}-\textbf{$\theta$}{Vaccine}}{\textbf{$\theta$}_{Placebo}}100" title="Eff=\frac{\textbf{$\theta$}{Placebo}-\textbf{$\theta$}{Vaccine}}{\textbf{$\theta$}_{Placebo}}100" /></a>
 
+## Project
 In this project we try to infer the effectiveness of the COVID-19 vaccines using Markov Chains.
 
 We have used R language and `RJAGS` (Just another Gibbs sampler) a library for simulation from Bayesian hierarchical models using Markov chain Monte Carlo. 
@@ -27,3 +28,4 @@ To properly run this project please clone this directory and install JAGS on you
 
 Contact Simone Mistrali at simone.mistrali at gmail.com for any questions or comments.
 
+To properly see the formulas please set the light theme on Github settings.
