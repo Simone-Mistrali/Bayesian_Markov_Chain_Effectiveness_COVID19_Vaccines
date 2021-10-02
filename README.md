@@ -12,9 +12,8 @@ In medicine, effectiveness relates to how well a treatment works in practice, es
 ### The quantitative definition
 
 To give a quantitative definition of the effectiveness we will use the following formula:
-
-<img src="https://latex.codecogs.com/gif.latex?Eff&space;=&space;\frac{\textbf{$\theta$}{Placebo}&space;-\textbf{$\theta$}{Vaccine}}{\textbf{$\theta$}_{Placebo}}100" title="Eff = \frac{\textbf{$\theta$}{Placebo} -\textbf{$\theta$}{Vaccine}}{\textbf{$\theta$}_{Placebo}}100" />
-
+[tex]Eff=\frac{\textbf{$\theta$}{Placebo}-\textbf{$\theta$}{Vaccine}}{\textbf{$\theta$}_{Placebo}}100[/tex]
+## Project
 In this project we try to infer the effectiveness of the COVID-19 vaccines using Markov Chains.
 
 We have used R language and `RJAGS` (Just another Gibbs sampler) a library for simulation from Bayesian hierarchical models using Markov chain Monte Carlo. 
