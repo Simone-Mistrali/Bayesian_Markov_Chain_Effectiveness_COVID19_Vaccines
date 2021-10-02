@@ -13,9 +13,7 @@ In medicine, effectiveness relates to how well a treatment works in practice, es
 
 To give a quantitative definition of the effectiveness we will use the following formula:
 
-$$
-Eff = \frac{\textbf{$\theta$}_{Placebo} -\textbf{$\theta$}_{Vaccine}}{\textbf{$\theta$}_{Placebo}}100
-$$
+$Eff = \frac{\textbf{$\theta$}_{Placebo} -\textbf{$\theta$}_{Vaccine}}{\textbf{$\theta$}_{Placebo}}100$
 
 ## Project
 In this project we try to infer the effectiveness of the COVID-19 vaccines using Markov Chains.
